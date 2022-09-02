@@ -23,7 +23,7 @@
 
 <a href="https://twitter.com/himanshu_gupt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshu_gupt09" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/himanshu-gupta-383a6b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himanshu-gupta-383a6b220" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-gupta-383a6b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himanshu-gupta-383a6b220" height="30" width="40" /></a>
 
 <a href="https://fb.com/facebook.com/himanshugupta7985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/himanshugupta7985" height="30" width="40" /></a>
 

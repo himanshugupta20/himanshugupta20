@@ -1,10 +1,12 @@
-! [logo](https://github.com/himanshugupta20/himanshugupta20/blob/main/1639039930072.jpeg)
+
+<p align="center"><a href="#"><img width="30%" alt="Hello, I'm Vivek " src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" /></a><a href="#"><img width="15%" alt="Hello, I'm Himanshu  " src="https://media.giphy.com/media/2J3VPYmnhO2jjKAX0X/giphy.gif" /></a></p>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 
 <h3 align="center">A passionate programmer from India.</h3>
-
-<img align="right" alt="Coding" width="400" src=”[https://3.bp.blogspot.com/-NNI9p6H_IDA/WB_ojq5j-8I/AAAAAAAAPnA/xMYKWIhpSQs930L9JqEpjhrIWpOCD59rACLcB/s1600/Cosby%2BPeter%2BHorsey.gif](https://3.bp.blogspot.com/-NNI9p6H_IDA/WB_ojq5j-8I/AAAAAAAAPnA/xMYKWIhpSQs930L9JqEpjhrIWpOCD59rACLcB/s1600/Cosby%2BPeter%2BHorsey.gif)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshugupta20&label=Profile%20views&color=0e75b6&style=flat" alt="himanshugupta20" /> </p>
 
